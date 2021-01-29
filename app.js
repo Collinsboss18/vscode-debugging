@@ -1,6 +1,4 @@
 const app = require('express')();
-// const https = require('https');
-// const server = https.createServer(app);
 const port = process.env.PORT || 3000;
 
 /** To inspect using the Chrome developer tool...
