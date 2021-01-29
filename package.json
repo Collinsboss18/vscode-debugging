@@ -1,0 +1,15 @@
+{
+	"name": "debugging-nodejs",
+	"version": "1.0.0",
+	"description": "Debugging using vscode",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Collins Abadaike",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"node-inspect": "^2.0.0"
+	}
+}
