@@ -9,4 +9,4 @@ Vscode lunch.json template
 
 > Result
 
-> <img src="src/turtlepics/testing-vscode.png">
+<img src="src/turtlepics/testing-vscode.png">
